@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. red
+2. sushi
+3. games
