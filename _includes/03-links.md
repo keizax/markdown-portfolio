@@ -1,1 +1,1 @@
-[keizax profile] (https://github.com/keizax)
+[keizax profile](https://github.com/keizax)
